@@ -3,6 +3,11 @@
     margin: 1.4rem auto;
 }
 
+.botao{
+    margin-bottom: 1rem;
+    border: #3F51B5;
+}
+
 .title{
     text-align: center;
     margin-bottom: 3rem;
@@ -25,4 +30,28 @@ th{
 
 td{
     color: #FFFFFF;
+}
+
+.edit{
+    color: #FFFFFF;
+}
+
+.delete{
+    color: #FFFFFF;
+}
+
+.edit:hover{
+    color: rgb(0, 4, 253);
+}
+
+.delete:hover{
+    color: #ff0000;
+}
+
+.book{
+    color: #FFFFFF;
+}
+
+.book:hover{
+    color: rgb(52, 243, 4);
 }
