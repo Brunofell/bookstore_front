@@ -1,8 +1,19 @@
 .container{
     height: 85%;
     background-color: #000000;
+    color: #FFFFFF;
 }
 
 i{
-    padding-right: .6em
+    padding-right: .6em;
+    color: #FFFFFF;
 }
+
+.side{
+    background-color: #111111;
+}
+
+.item{
+    color: #FFFFFF;
+}
+
