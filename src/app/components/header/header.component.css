@@ -1,0 +1,21 @@
+img{
+    height: 3rem;
+    padding: .5em;
+}
+
+.header{
+    justify-content: center;
+    background-color: #111111;
+    color: #FFFFFF;
+    height: 10%;
+}
+
+span{
+    display: flex;
+    align-items: center;
+
+}
+
+h1{
+    font-size: 1rem;
+}
