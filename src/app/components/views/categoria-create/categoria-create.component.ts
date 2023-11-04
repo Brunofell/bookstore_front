@@ -34,5 +34,6 @@ export class CategoriaCreateComponent implements OnInit{
 
   cancel(): void{
     this.router.navigate(['categorias'])
+    this.service.mensagem('Operação cancelada.')
   }
 }
